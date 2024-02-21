@@ -1,0 +1,50 @@
+{
+  "vin": "1MEBP88U0GG643233",
+  "bodyType": "string",
+  "routeId": "1168802",
+  "geotag": {
+    "latitude": 42.48722,
+    "longitude": -83.14732,
+    "time": "2024-02-19T17:54:53.902Z"
+  },
+  "turvoItemId": "string",
+  "inTransitReportId": 0,
+  "damageItems": [
+    {
+      "id": 0,
+      "severity": "string",
+      "location": "string",
+      "locations": [
+        {
+          "location": "string",
+          "readOnly": true
+        }
+      ],
+      "locationsJson": "string",
+      "type": "string",
+      "readOnly": true,
+      "notes": "string",
+      "damageImages": [
+        {
+          "id": 0,
+          "fileStream": "string",
+          "fileUri": "string",
+          "thumbnailFileUri": "string",
+          "readOnly": true
+        }
+      ]
+    }
+  ],
+  "vehicleInfo": {
+    "make": "string",
+    "model": "string",
+    "year": "string",
+    "weight": "string",
+    "type": "string",
+    "height": "string",
+    "width": "string",
+    "length": "string",
+    "wheelBase": "string",
+    "body_Type": "string"
+  }
+}
