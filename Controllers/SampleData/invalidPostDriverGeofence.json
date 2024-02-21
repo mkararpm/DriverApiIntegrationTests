@@ -1,0 +1,17 @@
+{
+  "userGeofences": [
+    {
+      "shipmentId": "string",
+      "routeId": "string",
+      "isInGeofence": true
+    }
+  ],
+  "locationTracking": {
+    "contactId": "string",
+    "authUserId": "string",
+    "latitude": 0,
+    "longitude": 0,
+    "speed": 0,
+    "time": "2024-02-16T20:21:28.638Z"
+  }
+}

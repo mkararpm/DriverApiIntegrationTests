@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -30,13 +30,49 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="SampleData\auth-getdata.json">
+    <None Update="Controllers\SampleData\shipmentDamageCodes.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="SampleData\auth-prep.json">
+    <None Update="Controllers\SampleData\validPostShipmentCountDamages.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="SampleData\Countries.json">
+    <None Update="Controllers\SampleData\validPostDamageShipment.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\validPostMobileReportError.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\validPostMobileReportCrash.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\validPostDriverGeofence.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\invalidPostDriverGeofence.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\validPostDriverCurrentLocation.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\invalidPostDriverCurrentLocation.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\invalidPostDriver.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\validPostDriver.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\validGetDriver.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\authGetData.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\authPrep.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Controllers\SampleData\Countries.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

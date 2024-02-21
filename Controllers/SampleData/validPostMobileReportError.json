@@ -1,0 +1,13 @@
+{
+  "exType": "string",
+  "message": "string",
+  "stackTrace": "string",
+  "platform": "string",
+  "appVersion": "string",
+  "phoneNumber": "string",
+  "additionalInfo": {
+    "additionalProp1": "string",
+    "additionalProp2": "string",
+    "additionalProp3": "string"
+  }
+}

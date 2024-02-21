@@ -1,0 +1,17 @@
+{
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "phone": "string",
+  "phoneCountryCode": "string",
+  "city": "string",
+  "state": "string",
+  "countryCode": "string",
+  "zipCode": "string",
+  "phoneNumberRep": "string",
+  "emailRep": "string",
+  "lang": "string",
+  "unitMeasurementSystem": 0,
+  "oemEmail": "string"
+}

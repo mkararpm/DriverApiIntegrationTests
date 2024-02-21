@@ -1,0 +1,18 @@
+{
+  "id": "string",
+  "name": "string",
+  "reason": "string",
+  "fileName": "string",
+  "lineNumber": "string",
+  "url": "string",
+  "appDisplayName": "string",
+  "appPlatform": "string",
+  "appVersion": "string",
+  "stackTrace": [
+    "string"
+  ],
+  "affectedUsers": 0,
+  "crashCount": 0,
+  "sentAt": "2024-02-19T14:47:32.627Z",
+  "appId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+}

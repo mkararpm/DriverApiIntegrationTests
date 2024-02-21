@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntegrationTests
+namespace DriverAPI.IntegrationTests
 {
-    internal class apiconfig
+    internal class ApiConfig
     {
         public string BaseUrl { get; set; } = string.Empty;
         public string Scope { get; set; } = string.Empty;

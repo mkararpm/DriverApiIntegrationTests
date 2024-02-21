@@ -1,0 +1,8 @@
+{
+  "contactId": "string",
+  "authUserId": "string",
+  "latitude": 0,
+  "longitude": 0,
+  "speed": 0,
+  "time": "2024-02-16T19:57:01.250Z"
+}
